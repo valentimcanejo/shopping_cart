@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import "package:projeto1/screens/HomePage.dart";
 import "package:projeto1/main.dart";
 
 class Pagamento extends StatelessWidget {
